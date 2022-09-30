@@ -1,1 +1,1 @@
-//phat trien tinh nang 4 nhai
+//Tai day da phat trien xong tinh nang 4 
