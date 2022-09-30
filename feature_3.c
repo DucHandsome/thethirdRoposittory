@@ -12,3 +12,5 @@ int main()
     scanf("%d", &ia[i]); //Nhap gia tri cho phan tu thu i
     }
 }
+
+// Phat trien xong feature 3

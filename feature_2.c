@@ -17,3 +17,5 @@ for(i = 0; i < in; i++)
 printf("Trung binh cong: %.5fn", (float) isum/in);
 getch();
 }
+
+// Phat trien xong feature 2
